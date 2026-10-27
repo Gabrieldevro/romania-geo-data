@@ -1,0 +1,338 @@
+[
+ {
+  "code": "AB",
+  "name": "Alba",
+  "siruta": 10,
+  "region": "Centru",
+  "seat": "Alba Iulia",
+  "localities": 716
+ },
+ {
+  "code": "AR",
+  "name": "Arad",
+  "siruta": 29,
+  "region": "Vest",
+  "seat": "Arad",
+  "localities": 283
+ },
+ {
+  "code": "AG",
+  "name": "Argeș",
+  "siruta": 38,
+  "region": "Sud-Muntenia",
+  "seat": "Pitești",
+  "localities": 585
+ },
+ {
+  "code": "BC",
+  "name": "Bacău",
+  "siruta": 47,
+  "region": "Nord-Est",
+  "seat": "Bacău",
+  "localities": 510
+ },
+ {
+  "code": "BH",
+  "name": "Bihor",
+  "siruta": 56,
+  "region": "Nord-Vest",
+  "seat": "Oradea",
+  "localities": 458
+ },
+ {
+  "code": "BN",
+  "name": "Bistrița-Năsăud",
+  "siruta": 65,
+  "region": "Nord-Vest",
+  "seat": "Bistrița",
+  "localities": 249
+ },
+ {
+  "code": "BT",
+  "name": "Botoșani",
+  "siruta": 74,
+  "region": "Nord-Est",
+  "seat": "Botoșani",
+  "localities": 350
+ },
+ {
+  "code": "BR",
+  "name": "Brăila",
+  "siruta": 92,
+  "region": "Sud-Est",
+  "seat": "Brăila",
+  "localities": 144
+ },
+ {
+  "code": "BV",
+  "name": "Brașov",
+  "siruta": 83,
+  "region": "Centru",
+  "seat": "Brașov",
+  "localities": 165
+ },
+ {
+  "code": "B",
+  "name": "București",
+  "siruta": 403,
+  "region": "București-Ilfov",
+  "seat": "București",
+  "localities": 6
+ },
+ {
+  "code": "BZ",
+  "name": "Buzău",
+  "siruta": 109,
+  "region": "Sud-Est",
+  "seat": "Buzău",
+  "localities": 488
+ },
+ {
+  "code": "CL",
+  "name": "Călărași",
+  "siruta": 519,
+  "region": "Sud-Muntenia",
+  "seat": "Călărași",
+  "localities": 165
+ },
+ {
+  "code": "CS",
+  "name": "Caraș-Severin",
+  "siruta": 118,
+  "region": "Vest",
+  "seat": "Reșița",
+  "localities": 309
+ },
+ {
+  "code": "CJ",
+  "name": "Cluj",
+  "siruta": 127,
+  "region": "Nord-Vest",
+  "seat": "Cluj-Napoca",
+  "localities": 434
+ },
+ {
+  "code": "CT",
+  "name": "Constanța",
+  "siruta": 136,
+  "region": "Sud-Est",
+  "seat": "Constanța",
+  "localities": 214
+ },
+ {
+  "code": "CV",
+  "name": "Covasna",
+  "siruta": 145,
+  "region": "Centru",
+  "seat": "Sfântu Gheorghe",
+  "localities": 128
+ },
+ {
+  "code": "DB",
+  "name": "Dâmbovița",
+  "siruta": 154,
+  "region": "Sud-Muntenia",
+  "seat": "Târgoviște",
+  "localities": 374
+ },
+ {
+  "code": "DJ",
+  "name": "Dolj",
+  "siruta": 163,
+  "region": "Sud-Vest Oltenia",
+  "seat": "Craiova",
+  "localities": 390
+ },
+ {
+  "code": "GL",
+  "name": "Galați",
+  "siruta": 172,
+  "region": "Sud-Est",
+  "seat": "Galați",
+  "localities": 184
+ },
+ {
+  "code": "GR",
+  "name": "Giurgiu",
+  "siruta": 528,
+  "region": "Sud-Muntenia",
+  "seat": "Giurgiu",
+  "localities": 170
+ },
+ {
+  "code": "GJ",
+  "name": "Gorj",
+  "siruta": 181,
+  "region": "Sud-Vest Oltenia",
+  "seat": "Târgu Jiu",
+  "localities": 435
+ },
+ {
+  "code": "HR",
+  "name": "Harghita",
+  "siruta": 190,
+  "region": "Centru",
+  "seat": "Miercurea-Ciuc",
+  "localities": 264
+ },
+ {
+  "code": "HD",
+  "name": "Hunedoara",
+  "siruta": 207,
+  "region": "Vest",
+  "seat": "Deva",
+  "localities": 487
+ },
+ {
+  "code": "IL",
+  "name": "Ialomița",
+  "siruta": 216,
+  "region": "Sud-Muntenia",
+  "seat": "Slobozia",
+  "localities": 139
+ },
+ {
+  "code": "IS",
+  "name": "Iași",
+  "siruta": 225,
+  "region": "Nord-Est",
+  "seat": "Iași",
+  "localities": 429
+ },
+ {
+  "code": "IF",
+  "name": "Ilfov",
+  "siruta": 234,
+  "region": "București-Ilfov",
+  "seat": null,
+  "localities": 104
+ },
+ {
+  "code": "MM",
+  "name": "Maramureș",
+  "siruta": 243,
+  "region": "Nord-Vest",
+  "seat": "Baia Mare",
+  "localities": 247
+ },
+ {
+  "code": "MH",
+  "name": "Mehedinți",
+  "siruta": 252,
+  "region": "Sud-Vest Oltenia",
+  "seat": "Drobeta-Turnu Severin",
+  "localities": 358
+ },
+ {
+  "code": "MS",
+  "name": "Mureș",
+  "siruta": 261,
+  "region": "Centru",
+  "seat": "Târgu Mureș",
+  "localities": 518
+ },
+ {
+  "code": "NT",
+  "name": "Neamț",
+  "siruta": 270,
+  "region": "Nord-Est",
+  "seat": "Piatra-Neamț",
+  "localities": 360
+ },
+ {
+  "code": "OT",
+  "name": "Olt",
+  "siruta": 289,
+  "region": "Sud-Vest Oltenia",
+  "seat": "Slatina",
+  "localities": 389
+ },
+ {
+  "code": "PH",
+  "name": "Prahova",
+  "siruta": 298,
+  "region": "Sud-Muntenia",
+  "seat": "Ploiești",
+  "localities": 458
+ },
+ {
+  "code": "SJ",
+  "name": "Sălaj",
+  "siruta": 314,
+  "region": "Nord-Vest",
+  "seat": "Zalău",
+  "localities": 289
+ },
+ {
+  "code": "SM",
+  "name": "Satu Mare",
+  "siruta": 305,
+  "region": "Nord-Vest",
+  "seat": "Satu Mare",
+  "localities": 234
+ },
+ {
+  "code": "SB",
+  "name": "Sibiu",
+  "siruta": 323,
+  "region": "Centru",
+  "seat": "Sibiu",
+  "localities": 188
+ },
+ {
+  "code": "SV",
+  "name": "Suceava",
+  "siruta": 332,
+  "region": "Nord-Est",
+  "seat": "Suceava",
+  "localities": 412
+ },
+ {
+  "code": "TR",
+  "name": "Teleorman",
+  "siruta": 341,
+  "region": "Sud-Muntenia",
+  "seat": "Alexandria",
+  "localities": 236
+ },
+ {
+  "code": "TM",
+  "name": "Timiș",
+  "siruta": 350,
+  "region": "Vest",
+  "seat": "Timișoara",
+  "localities": 325
+ },
+ {
+  "code": "TL",
+  "name": "Tulcea",
+  "siruta": 369,
+  "region": "Sud-Est",
+  "seat": "Tulcea",
+  "localities": 141
+ },
+ {
+  "code": "VL",
+  "name": "Vâlcea",
+  "siruta": 387,
+  "region": "Sud-Vest Oltenia",
+  "seat": "Râmnicu Vâlcea",
+  "localities": 609
+ },
+ {
+  "code": "VS",
+  "name": "Vaslui",
+  "siruta": 378,
+  "region": "Nord-Est",
+  "seat": "Vaslui",
+  "localities": 465
+ },
+ {
+  "code": "VN",
+  "name": "Vrancea",
+  "siruta": 396,
+  "region": "Sud-Est",
+  "seat": "Focșani",
+  "localities": 346
+ }
+]

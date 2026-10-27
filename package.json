@@ -1,0 +1,19 @@
+{
+  "name": "romania-geo-data",
+  "version": "1.0.0",
+  "description": "All 42 Romanian counties and 13,755 localities with SIRUTA codes, postal codes, diacritics and search. JSON, CSV, SQL, JS and PHP. Official open data (INS + Posta Romana).",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": { "types": "./index.d.ts", "default": "./index.js" },
+    "./data/*": "./data/*"
+  },
+  "files": ["index.js", "index.d.ts", "data/*.json", "data/*.csv", "data/*.sql"],
+  "scripts": { "test": "node --test", "build": "python tools/build.py" },
+  "engines": { "node": ">=18" },
+  "keywords": ["romania", "judete", "localitati", "counties", "cities", "siruta", "postal-code", "cod-postal", "checkout", "address", "geo"],
+  "author": "Gabriel Dev <contact@gabrieldev.eu> (https://gabrieldev.eu)",
+  "repository": { "type": "git", "url": "https://github.com/Gabrieldevro/romania-geo-data.git" },
+  "license": "MIT"
+}

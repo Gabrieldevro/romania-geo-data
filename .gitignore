@@ -1,0 +1,7 @@
+vendor/
+composer.lock
+node_modules/
+.phpunit.cache/
+.phpunit.result.cache
+sources/
+__pycache__/
