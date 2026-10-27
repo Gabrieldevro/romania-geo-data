@@ -1,0 +1,43 @@
+code,name,siruta,region,seat,localities
+AB,Alba,10,Centru,Alba Iulia,716
+AR,Arad,29,Vest,Arad,283
+AG,Argeș,38,Sud-Muntenia,Pitești,585
+BC,Bacău,47,Nord-Est,Bacău,510
+BH,Bihor,56,Nord-Vest,Oradea,458
+BN,Bistrița-Năsăud,65,Nord-Vest,Bistrița,249
+BT,Botoșani,74,Nord-Est,Botoșani,350
+BR,Brăila,92,Sud-Est,Brăila,144
+BV,Brașov,83,Centru,Brașov,165
+B,București,403,București-Ilfov,București,6
+BZ,Buzău,109,Sud-Est,Buzău,488
+CL,Călărași,519,Sud-Muntenia,Călărași,165
+CS,Caraș-Severin,118,Vest,Reșița,309
+CJ,Cluj,127,Nord-Vest,Cluj-Napoca,434
+CT,Constanța,136,Sud-Est,Constanța,214
+CV,Covasna,145,Centru,Sfântu Gheorghe,128
+DB,Dâmbovița,154,Sud-Muntenia,Târgoviște,374
+DJ,Dolj,163,Sud-Vest Oltenia,Craiova,390
+GL,Galați,172,Sud-Est,Galați,184
+GR,Giurgiu,528,Sud-Muntenia,Giurgiu,170
+GJ,Gorj,181,Sud-Vest Oltenia,Târgu Jiu,435
+HR,Harghita,190,Centru,Miercurea-Ciuc,264
+HD,Hunedoara,207,Vest,Deva,487
+IL,Ialomița,216,Sud-Muntenia,Slobozia,139
+IS,Iași,225,Nord-Est,Iași,429
+IF,Ilfov,234,București-Ilfov,,104
+MM,Maramureș,243,Nord-Vest,Baia Mare,247
+MH,Mehedinți,252,Sud-Vest Oltenia,Drobeta-Turnu Severin,358
+MS,Mureș,261,Centru,Târgu Mureș,518
+NT,Neamț,270,Nord-Est,Piatra-Neamț,360
+OT,Olt,289,Sud-Vest Oltenia,Slatina,389
+PH,Prahova,298,Sud-Muntenia,Ploiești,458
+SJ,Sălaj,314,Nord-Vest,Zalău,289
+SM,Satu Mare,305,Nord-Vest,Satu Mare,234
+SB,Sibiu,323,Centru,Sibiu,188
+SV,Suceava,332,Nord-Est,Suceava,412
+TR,Teleorman,341,Sud-Muntenia,Alexandria,236
+TM,Timiș,350,Vest,Timișoara,325
+TL,Tulcea,369,Sud-Est,Tulcea,141
+VL,Vâlcea,387,Sud-Vest Oltenia,Râmnicu Vâlcea,609
+VS,Vaslui,378,Nord-Est,Vaslui,465
+VN,Vrancea,396,Sud-Est,Focșani,346
